@@ -6,7 +6,7 @@ html, body {
   
   body {
     background-color: #fafafa;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif !important;
   }
   
   .main, .main-header, .main-footer {
