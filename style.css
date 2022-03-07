@@ -154,10 +154,11 @@ html, body {
   .main a {
     text-decoration: none;
   }
-  .navbar-nav > .active > a { 
+
+  .tabs-nav > .nav-tabs > .active > a { 
     background-color: rgba(68, 76, 101, 1);
     color: #fff;; 
-}
+  }
   
   .main a:hover {
     background-color: #fafafa;
