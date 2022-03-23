@@ -43,7 +43,6 @@ Experimental data reported here is detailed in the paper “[An atlas of healthy
 
 | Group  | Creater(Blue Lake & Sanjay Jain) |
 |--------|----------------------------------|
-| RTI-GE | Fiona Ginty (fiona.ginty@ge.com) |
 | MC-IU  | Katy Börner (katy@indiana.edu)   |
 
 
