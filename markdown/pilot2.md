@@ -56,102 +56,102 @@ The experimental skin data used here is detailed in “Human Digital Twin: Autom
   <div class="tab-content">
     <div id="region1" class="tab-pane fade in active">
       <h3>Region 1</h3>
-      <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_1.html" >
+      <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_1.html" >
       <img src="../img/region1.png" alt="region1" style="width:100%">
         </a>
-      <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_1.html" >new window.</a>  
+      <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_1.html" >new window.</a>  
     </div>
     <div id="region2" class="tab-pane fade">
       <h3>Region 2</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_2.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_2.html" >
       <img src="../img/region2.png" alt="region2" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_2.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_2.html" >new window.</a>
   </div>
     <div id="region3" class="tab-pane fade">
       <h3>Region 3</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_3.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_3.html" >
       <img src="../img/region3.png" alt="region3" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_3.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_3.html" >new window.</a>
     </div>
     <div id="region4" class="tab-pane fade">
       <h3>Region 4</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_4.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_4.html" >
       <img src="../img/region4.png" alt="region4" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_4.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_4.html" >new window.</a>
     </div>
     <div id="region5" class="tab-pane fade">
       <h3>Region 5</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_5.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_5.html" >
       <img src="../img/region5.png" alt="region5" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_5.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_5.html" >new window.</a>
     </div>
     <div id="region7" class="tab-pane fade">
       <h3>Region 7</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_7.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_7.html" >
       <img src="../img/region7.png" alt="region7" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_7.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_7.html" >new window.</a>
     </div>
     <div id="region8" class="tab-pane fade">
       <h3>Region 8</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_8.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_8.html" >
       <img src="../img/region8.png" alt="region8" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_8.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_8.html" >new window.</a>
     </div>
     <div id="region9" class="tab-pane fade">
       <h3>Region 9</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_9.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_9.html" >
       <img src="../img/region9.png" alt="region9" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_9.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_9.html" >new window.</a>
     </div>
     <div id="region10" class="tab-pane fade">
       <h3>Region 10</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_10.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_10.html" >
       <img src="../img/region10.png" alt="region10" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_10.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_10.html" >new window.</a>
     </div>
     <div id="region11" class="tab-pane fade">
       <h3>Region 11</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_11.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_11.html" >
       <img src="../img/region11.png" alt="region11" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_11.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/region_11.html" >new window.</a>
     </div>
     <div id="violincell" class="tab-pane fade">
         <h3>Violin Cell</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/violin_cell.html" >
         <img src="../img/violincell.png" alt="violincell" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/violin_cell.html" >new window.</a>
     </div>
     <div id="violinCellAll" class="tab-pane fade">
         <h3>Violin Cell All Region</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell_all.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/violin_cell_all_region.html" >
         <img src="../img/violinCellAll.png" alt="violinCellAll" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell_all_region.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/violin_cell_all_region.html" >new window.</a>
     </div>
     <div id="ViolinDamage" class="tab-pane fade">
         <h3>Violin Damage</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_damage.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/epidermis/violin_damage_epidermis.html" >
         <img src="../img/violinDamage.png" alt="ViolinDamage" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_damage.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/epidermis/violin_damage_epidermis.html" >new window.</a>
     </div>
     <div id="ViolinDamageAll" class="tab-pane fade">
         <h3>Violin Damage All Region</h3>
-        <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_damage_all.html" >
+        <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/epidermis/violin_damage_all_region_epidermis.html" >
         <img src="../img/violinDamageAll.png" alt="ViolinDamageAll" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_damage_all_region.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/vccf-visualization-release/html/epidermis/violin_damage_all_region_epidermis.html" >new window.</a>
     </div>
 </div>
 
-Try all the 10 skin samples [here](https://juyingnan.github.io/vccf_visualization.io).
+Try all the 10 skin samples [here](https://hubmapconsortium.github.io/vccf-visualization-release/).
