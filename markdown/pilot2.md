@@ -1,13 +1,13 @@
 #  Preview: Vasculature CCF Visualization
 
-HuBMAP Atlas Previews demonstrate functionality and resources that will become available in future releases. Previews may rely on externally hosted data or analysis results that were generated with processing pipelines that are not yet integrated into the HuBMAP Data Portal infrastructure.
+HuBMAP Atlas Previews demonstrate functionality and resources that will become available in future HuBMAP portal releases. Previews may rely on externally hosted data or analysis results that were generated with processing pipelines that are not yet integrated into the HuBMAP data infrastructure.
 
 
 ### Description
 
 This preview showcases a novel visualization in support of a vasculature-based common coordinate system (VCCF), see paper on “[Considerations for Using the Vasculature as a Coordinate System to Map All the Cells in the Human Body](https://doi.org/10.3389/fcvm.2020.00029)”.
 
-Experimental data from the “Human Digital Twin: Automated Cell Type Distance Computation and 3D Atlas Construction in Multiplexed Skin Biopsies” paper, bioarxiv #, is used to compute distances of different cell types to the nearest blood vessel using 3D volumes of digital skin biopsy data generated using multiplexed imaging of sequential skin sections from younger and older patients (n=12; 22-72 years). Skin biopsies were collected from patients from different anatomical regions and different sun exposure effects (mild, moderate and marked). Samples underwent multiplexed imaging with 18 biomarkers covering nine cell types (epithelial, fibroblast, immune cells (macrophage, T-helper, T-killer, T-reg), endothelial, myoepithelial and nerve) markers of UV damage (p53, DDB2) and proliferation (Ki67). Following classification of cells into epithelial, endothelial, immune and markers of damage, the tissue data was reconstructed into 3D volumes. The reconstructed 3D cell data was used to compute distance distributions and network layouts of major immune cells to the nearest blood vessel in support of a vasculature based common coordinate framework and compared across age groups. Further, analysis of cell damage and proliferation markers (p53, Ki67 and DDB2) in the epithelial layer and their distance provided new insights into the effects of aging on skin.
+Experimental data from the “[Human Digital Twin: Automated Cell Type Distance Computation and 3D Atlas Construction in Multiplexed Skin Biopsies](https://www.biorxiv.org/content/10.1101/2022.03.30.486438v1)” paper, is used to compute distances of different cell types to the nearest blood vessel using 3D volumes of digital skin biopsy data generated using multiplexed imaging of sequential skin sections from younger and older patients (n=12; 22-72 years). Skin biopsies were collected from patients from different anatomical regions and different sun exposure effects (mild, moderate and marked). Samples underwent multiplexed imaging with 18 biomarkers covering nine cell types (epithelial, fibroblast, immune cells (macrophage, T-helper, T-killer, T-reg), endothelial, myoepithelial and nerve) markers of UV damage (p53, DDB2) and proliferation (Ki67). Following classification of cells into epithelial, endothelial, immune and markers of damage, the tissue data was reconstructed into 3D volumes. The reconstructed 3D cell data was used to compute distance distributions and network layouts of major immune cells to the nearest blood vessel in support of a vasculature based common coordinate framework and compared across age groups. Further, analysis of cell damage and proliferation markers (p53, Ki67 and DDB2) in the epithelial layer and their distance provided new insights into the effects of aging on skin.
 
 
 ### Atlas Details
@@ -17,7 +17,7 @@ Vascular pathways in human have been studied in much detail. Constructing a vasc
 
 ### Experimental Data Details
 
-The experimental skin data used here is detailed in “Human Digital Twin: Automated Cell Type Distance Computation and 3D Atlas Construction in Multiplexed Skin Biopsies” **bioarxiv #.**
+The experimental skin data used here is detailed in the “[Human Digital Twin: Automated Cell Type Distance Computation and 3D Atlas Construction in Multiplexed Skin Biopsies](https://www.biorxiv.org/content/10.1101/2022.03.30.486438v1)” paper.
 
 ### Contributors
 **Skin Data:** Soumya Ghose, Chrystal Chadwick, Elizabeth McDonough, Sanghee Cho, Johnhan Ho, Arivarasan Karunamurthy, Anup Sood, Yousef Al-Kofahi, Louis Falo & Fiona Ginty
@@ -27,7 +27,7 @@ The experimental skin data used here is detailed in “Human Digital Twin: Autom
 
 ### Attribution
 
-| Group  | Creater                          |
+| Group  | Creator                          |
 |--------|----------------------------------|
 | RTI-GE | Fiona Ginty (fiona.ginty@ge.com) |
 | MC-IU  | Katy Börner (katy@indiana.edu)   |
