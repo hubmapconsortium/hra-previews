@@ -135,7 +135,19 @@ html, body {
     display: flex;
     justify-content: center;
   }
+  .image-link {
+    display: flex;
+    justify-content: center;
+  }
   
+  .image-div {
+    padding: 5px;
+  }
+  .image-container {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
   .main-header .main-logo .logo {
     margin-left: 1rem;
     height: 24px;
