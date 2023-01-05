@@ -20,7 +20,7 @@ Proposed topics for the Series include
 
 ## Atlas Details
 
-The Human Reference Atlas (HRA) aims to map all of the cells of the human body to advance biomedical research and clinical practice. Please see[Perspective paper](https://www.nature.com/articles/s41556-021-00788-6) that presents collaborative work by members of 16 international consortia on two essential and interlinked parts of the HRA: (1) three-dimensional representations of anatomy that are linked to (2) tables that name and interlink major anatomical structures, cell types, plus biomarkers (ASCT+B). The paper also discusses four examples that demonstrate the practical utility of the HRA.
+The Human Reference Atlas (HRA) aims to map all of the cells of the human body to advance biomedical research and clinical practice. Please see [Perspective paper](https://www.nature.com/articles/s41556-021-00788-6) that presents collaborative work by members of 16 international consortia on two essential and interlinked parts of the HRA: (1) three-dimensional representations of anatomy that are linked to (2) tables that name and interlink major anatomical structures, cell types, plus biomarkers (ASCT+B). The paper also discusses four examples that demonstrate the practical utility of the HRA.
 
 ## Contributors
 
