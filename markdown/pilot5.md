@@ -9,12 +9,12 @@ The Tabula Sapiens dataset is a single cell transcriptomic atlas that provides a
 The ASCT+B Reporter lets users explore the anatomical structures, cell types, and biomarkers, their interrelationships, and linkages to existing ontologies and supporting literature. It makes it possible to compare Tabula Sapiens data visually to the existing ASCT+B master tables and to report discrepancies that future ASCT+B table revisions might address, see **Fig. 2**  and [ASCT+B Reporter Comparison Preview](https://hubmapconsortium.github.io/hra-previews/pilots/pilot1.html). 
 ## Atlas Details
 
-The Human Reference Atlas (HRA) aims to map all of the cells of the human body to advance biomedical research and clinical practice. Please see [Perspective paper](https://www.nature.com/articles/s41556-021-00788-6)[3] that presents collaborative work by members of 17 international consortia on two essential and interlinked parts of the HRA:
+The Human Reference Atlas (HRA) aims to map all of the cells of the human body to advance biomedical research and clinical practice. Please see [Perspective paper](https://www.nature.com/articles/s41556-021-00788-6) that presents collaborative work by members of 17 international consortia on two essential and interlinked parts of the HRA:
 
 1. Three-dimensional representations of anatomy that are linked to tables.
 1. Tables that name and interlink major anatomical structures, cell types, plus biomarkers (ASCT+B). The paper also discusses four examples that demonstrate the practical utility of the HRA.
 
-Data for 24 organs in Tabula Sapiens was compared to data for 26 organs covered in the ASCT+B tables. The overlap between both datasets is given in **Fig. 1**.  For details on methodology please consult [Comparing Tabula Sapiens to the Human Reference Atla](https://docs.google.com/document/d/1joDFF7A7T-3pbReEHI_oE4Zz1TpIC9l3F_71PXeX-78/edit?usp=sharing).
+Data for 24 organs in Tabula Sapiens was compared to data for 26 organs covered in the ASCT+B tables. The overlap between both datasets is given in **Fig. 1**.  For details on methodology please consult [Comparing Tabula Sapiens to the Human Reference Atlas](https://docs.google.com/document/d/1joDFF7A7T-3pbReEHI_oE4Zz1TpIC9l3F_71PXeX-78/edit?usp=sharing).
 ## Experimental Data Details
 The experimental data comparison presented here was documented by Sangmyung Lee during HuBMAP Summer 2022 Internship at Indiana University, see details in “[Comparing Tabula Sapiens to the Human Reference Atlas](https://docs.google.com/document/d/1joDFF7A7T-3pbReEHI_oE4Zz1TpIC9l3F_71PXeX-78/edit?usp=sharing)”.
 ## Contributors
@@ -30,15 +30,15 @@ The experimental data comparison presented here was documented by Sangmyung Lee 
 | :-: | :-: |
 |MC-IU|Sangmyung Lee (sam.sangmyung@gmail.com)|
 |MC-IU|Katy Börner (katy@indiana.edu)|
-|MC-IU|Ellen Quadorkus (ellenmq@indiana.edu)|
+|MC-IU|Ellen Quardokus (ellenmq@indiana.edu)|
 
 ## Visualizations
 
 <img src="../img/pilot5_img1.png" height="450" width="100%"> </img>
-**Figure 1**. There is a partial overlap of the 26 organs covered in the ASCT+B tables and the 24 organs in Tabula Sapiens. For details on \* please consult (cite [Comparing Tabula Sapiens to the Human Reference Atla](https://docs.google.com/document/d/1joDFF7A7T-3pbReEHI_oE4Zz1TpIC9l3F_71PXeX-78/edit?usp=sharing)).
+**Figure 1**. There is a partial overlap of the 26 organs covered in the ASCT+B tables and the 24 organs in Tabula Sapiens. For details on \* please consult (cite [Comparing Tabula Sapiens to the Human Reference Atlas](https://docs.google.com/document/d/1joDFF7A7T-3pbReEHI_oE4Zz1TpIC9l3F_71PXeX-78/edit?usp=sharing)).
 
 <img src="../img/pilot5_img2.png" height="450" width="100%"> </img>
-**Figure 2**. Comparison of Tabula Sapiens data to ASCT+B master tables using the ASCT+B Reporter, see also [ASCT+B Reporter Comparison Preview](https://hubmapconsortium.github.io/hra-previews/pilots/pilot1.html)[2]. 
+**Figure 2**. Comparison of Tabula Sapiens data to ASCT+B master tables using the ASCT+B Reporter, see also [ASCT+B Reporter Comparison Preview](https://hubmapconsortium.github.io/hra-previews/pilots/pilot1.html). 
 
 <img src="../img/pilot5_img3.png" height="450" width="100%"> </img>
 **Figure 3**. Bar graph visualization of cell type counts per shared organ.
