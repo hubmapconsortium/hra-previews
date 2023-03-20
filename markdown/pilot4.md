@@ -32,16 +32,16 @@ The Human Reference Atlas (HRA) aims to map all of the cells of the human body t
 
 ## Attribution
 
-| GROUP | CREATOR |
-| --- | --- |
+| GROUP | CREATOR                               |
+| ----- | ------------------------------------- |
 | MC-IU | Todd Theriault (ttheriau@indiana.edu) |
-| MC-IU | Katy Börner (katy@indiana.edu) |
+| MC-IU | Katy Börner (katy@indiana.edu)        |
 
 ## Visualization
 
 <div class="image-link">
     <a target="_blank" href= https://a-cns_iu.vev.site/human-reference-atlas-test/ >
-        <img src="../img/pilot4.png" height="450" width="100%"> </img>
+        <img src="../img/pilot4.png" width="100%"> </img>
     </a>
 </div>
 
