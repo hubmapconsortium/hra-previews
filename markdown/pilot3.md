@@ -6,7 +6,7 @@ HuBMAP Atlas Previews demonstrate functionality and resources that will become a
 
 The “[An atlas of healthy and injured cell states and niches in the human kidney](https://www.biorxiv.org/content/10.1101/2021.07.28.454201v1)” paper uses Human Biomolecular Atlas Program (HuBMAP) and the Kidney Precision Medicine Project (KPMP) data to create a high quality kidney atlas. The 21 tissue blocks used in the paper contain 64,693 kidney nuclei (10x Genomics snRNA-seq) from healthy reference states across 13 patient donors. Samples were derived from nephrectomy, biopsy, or deceased donor tissue, spanning three anatomical regions: medulla, cortex and papilla.
 
-The [kidney Azimuth reference](https://azimuth.hubmapconsortium.org/references/#Human%20-%20Kidney) was cross-walked to the kidney ASCT+B table using this manually compiled [lookup table](https://github.com/hubmapconsortium/azimuth-annotate/blob/main/data/kidney.json). The result is an “augmented kidney ASCT+B table” with information on the number of cells per cell type (percentage per total can be computed from that).
+The [kidney Azimuth reference](https://azimuth.hubmapconsortium.org/references/#Human%20-%20Kidney) was cross-walked to the kidney ASCT+B table using this manually compiled [lookup table](https://github.com/hubmapconsortium/azimuth-annotate/blob/main/data/all_labels.csv). The result is an “augmented kidney ASCT+B table” with information on the number of cells per cell type (percentage per total can be computed from that).
 
 Out of the 21 tissue blocks, 18 could be registered using the [Registration User Interface (RUI)](https://hubmapconsortium.github.io/ccf-ui/rui); for the other three, no data exists for their source location. For the 18 registered blocks, _ccf_annotations_ exist that identify the AS in the 3D kidney reference organ that collide with the tissue blocks. Using the _ccf_annotations_ in combination with the “augmented kidney ASCT+B table” it is possible to identify/predict the number of cells per cell type associated with each tissue block.
 
@@ -40,7 +40,7 @@ Experimental data reported here is detailed in the paper “[An atlas of healthy
 
 ### Attribution
 
-| Group | Creator(TMC-UCSD Blue Lake & Sanjay Jain) (b1lake@eng.ucsd.edu & sanjayjain@wustl.edu) |
+| Group | Creator([TMC-UCSD Blue Lake](mailto:b1lake@eng.ucsd.edu) & [Sanjay Jain](mailto:sanjayjain@wustl.edu))  |
 | ----- | -------------------------------------------------------------------------------------- |
 | MC-IU | Katy Börner (katy@indiana.edu)                                                         |
 
