@@ -16,9 +16,9 @@ The value of FTUs is acknowledged by the scientific and medical communities, yet
 
 Kaggle teams participating in the competition performed many iterations of experimentation in an extremely collaborative manner, sharing resources, ideas, and code to arrive at highly efficient solutions. The participants included academic researchers, data scientists, and machine-learning engineers from all over the world. 
 
-Resulting segmentation masks can be used to compute the number of glomeruli per unit area and changes as we age, see first results in <https://www.biorxiv.org/content/10.1101/2021.11.09.467810v1.abstract>.
+Resulting segmentation masks can be used to compute the number of glomeruli per unit area and changes as we age, see first results in <https://www.nature.com/articles/s42003-023-04848-5>.
 ## Experimental Data Details
-The experimental data used here is detailed in the Kaggle competition (<https://www.kaggle.com/competitions/hubmap-kidney-segmentation/data>) and the associated paper (<https://www.biorxiv.org/content/10.1101/2021.11.09.467810v1.abstract>).
+The experimental data used here is detailed in the Kaggle competition (<https://www.kaggle.com/competitions/hubmap-kidney-segmentation/data>) and the associated paper (<https://www.nature.com/articles/s42003-023-04848-5>).
 ## Contributors
 **Kidney Data:** Jeff Spraggins, Heath Patterson (TMC-VU)
 
