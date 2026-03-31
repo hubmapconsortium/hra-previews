@@ -1,3 +1,3 @@
 #  Preview: Mesh-Level Collision Detection
 
-This preview has been superseded by the paper entitled "Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas," available in [*Nature Scientific Data*](www.nature.com/articles/s41597-026-06642-4). Please see **Methods > Existing code > Mesh-based collision detection** for details on how mesh-based collision detection is used to annotate tissue blocks with anatomical structure tags as spatial metadata.
+This preview has been superseded by the paper entitled "Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas," available in [*Nature Scientific Data*](https://www.nature.com/articles/s41597-026-06642-4). Please see **Methods > Existing code > Mesh-based collision detection** for details on how mesh-based collision detection is used to annotate tissue blocks with anatomical structure tags as spatial metadata.
